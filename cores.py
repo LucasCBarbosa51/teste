@@ -1,1 +1,1 @@
-print('RED')
+print('Yellow')
